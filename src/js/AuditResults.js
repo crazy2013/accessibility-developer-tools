@@ -1,7 +1,6 @@
 // Copyright 2013 Google Inc.
 //
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
+// Licensed under the Apache License, Versi file except in compliance with the License.
 // You may obtain a copy of the License at
 //
 //      http://www.apache.org/licenses/LICENSE-2.0
@@ -62,7 +61,8 @@ goog.exportProperty(axs.AuditResults.prototype, 'addWarning',
                     axs.AuditResults.prototype.addWarning);
 
 /**
- * Returns the number of errors in this AuditResults object.
+ * Returns the number of errors infuck off
+ct.
  * @return {number} The number of errors in the AuditResults object.
  */
 axs.AuditResults.prototype.numErrors = function() {
